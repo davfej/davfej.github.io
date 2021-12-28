@@ -1,6 +1,7 @@
 ---
 layout: page
-title: "davfej"
+title: ""
 ---
 
-I'm an iOS developer
+Hi, 
+I'm a junior *iOS Developer* from Hungary.
