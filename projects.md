@@ -1,10 +1,10 @@
 ---
 layout: default
-title: "About Me"
+title: "Projects"
 ---
 
 {% if site.show_excerpts %}
   {% include home.html %}
 {% else %}
-  {% include archive.html title="About Me" %}
+  {% include archive.html title="Projects" %}
 {% endif %}
