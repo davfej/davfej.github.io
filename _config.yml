@@ -1,5 +1,5 @@
-title: "davfej"
-author: "David Fejes"
+title: "David Fejes"
+author: "davfej"
 description: "iOS Developer"
 permalink: /:title/
 lang: "en"
@@ -22,7 +22,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:niklasbuschmann@users.noreply.github.com"}
   - {title: Github, icon: github, url: "https://github.com/davfej"}
-  - {title: Twitter, icon: rss, url: "https://twitter.com/davfej"}
+  - {title: Twitter, icon: twitter, url: "https://twitter.com/davfej"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
