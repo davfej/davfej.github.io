@@ -3,7 +3,7 @@ layout: page
 title: ""
 ---
 
-<div style="text-align: center"><img src="https://i.ibb.co/9WrxB5L/smaller.png" alt="smaller" border="0" width=280 height=80></div>
+<div style="text-align: center"><img src="https://i.ibb.co/9WrxB5L/smaller.png" alt="smaller" border="0" width=320 height=92></div>
 <br />
 
 ## Hello,
