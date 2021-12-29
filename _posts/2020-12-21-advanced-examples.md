@@ -18,7 +18,7 @@ Keeping track of your hydration level never been easier. Just tap one your favor
 
 <br />
 
-<img src="https://i.ibb.co/VVmh4YG/Es-Pxjjj-XAAA5-Fi-X.jpg" alt="Es-Pxjjj-XAAA5-Fi-X" border="0" width=500>
+<img src="https://i.ibb.co/VVmh4YG/Es-Pxjjj-XAAA5-Fi-X.jpg" alt="Es-Pxjjj-XAAA5-Fi-X" border="10" width=800>
 
 <br />
 
