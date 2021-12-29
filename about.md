@@ -5,7 +5,7 @@ title: ""
 
 <div style="text-align: center"><img src="https://i.ibb.co/YfVckJY/9-O5i1-Ndu-400x400.jpg" alt="9-O5i1-Ndu-400x400" border="0" width=150 height=150 style="border-radius:50%"></div>
 <div style="text-align: center"><h1 style="font-size:200%;">David Fejes</h1></div>
-<div style="text-align: center"><h1 style="font-size:50%;">📍 Hungary</h1></div>
+<div style="text-align: center"><h1 style="font-size:90%;">📍 Hungary</h1></div>
 Self-taught developer based in Szeged, Hungary focused on iOS development. I love to create apps, the Xcode IDE, Swift & Objective-C languages are tools I use every day. 
 I'm motivated by the positive impact that software could bring to change the life of individuals for the better, and transform them into real life projects.
 
