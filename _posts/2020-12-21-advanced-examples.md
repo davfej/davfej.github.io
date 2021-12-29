@@ -71,3 +71,7 @@ Beautiful and clean calendar allowing you to see the days on which you met your 
 
 DrinkSpot got featured on *App Hackers*, a knowledge-sharing community for app developers, where creators can share their journeys and insights.
 Check out the full interview on [AppHackers.com](http://apphackers.com/interview/drinkspot-1545770917)
+
+#### Featured on Product Hunt
+
+<a href="https://www.producthunt.com/posts/drinkspot-daily-drink-tracker?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-drinkspot-daily-drink-tracker" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=279366&theme=light" alt="DrinkSpot: Daily Drink Tracker - Tracking app with balance of style, simplicity & performance | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
