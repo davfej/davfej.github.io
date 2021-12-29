@@ -14,7 +14,9 @@ categories: media
 DrinkSpot: Daily Drink Tracker is a water tracking app with a good balance of *style*, *simplicity* and *functionality*.
 A water tracking app with powerful features including water and multiple beverages tracking capability, reminders, nutrition monitoring, progress calendar and much, much more.
 
-Keeping track of your hydration level never been easier. Just tap one your favorite drink to add it to your daily progress.
+Keeping track of your hydration level never been easier.
+
+> Just tap one your favorite drink to track it.
 
 <br />
 
@@ -22,7 +24,7 @@ Keeping track of your hydration level never been easier. Just tap one your favor
 
 <br />
 
-##KEY FEATURES
+## KEY FEATURES
 
 *Simple Water Tracking*
 Add drinks to your progress with just a simple tap.
@@ -40,7 +42,7 @@ Keep track of your nutrient values, including calories, carbs, proteins and more
 Beautiful and clean calendar allowing you to see the days on which you met your daily goal.
 
 
-##HELPS YOU TO STAY HEALTHY
+## HELPS YOU TO STAY HEALTHY
 
 • Consumption Informations - see when you reached the recommended daily caffeine or sugar intake.
 • Personal Reminders - set custom water reminder for yourself when you need to drink more.
@@ -48,7 +50,7 @@ Beautiful and clean calendar allowing you to see the days on which you met your 
 • Sync your Data with Apple Health - share your health informations with Apple Health so it can define calorie consumption goals and make dietary recommendations.
 
 
-##EVEN MORE THINGS
+## EVEN MORE THINGS
 
 • Clean and easy to use app
 • iOS Widgets
