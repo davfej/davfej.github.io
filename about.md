@@ -10,6 +10,6 @@ I am a self-taught developer. After many years of practicing and learning how to
   
 </div>
 
-Visit my [LinkedIn](https://www.linkedin.com/in/dávid-fejes-b02316212/) profile for more details.
+<div style="text-align: center">Visit my [LinkedIn](https://www.linkedin.com/in/dávid-fejes-b02316212/) profile for more details.</div>
 
 
