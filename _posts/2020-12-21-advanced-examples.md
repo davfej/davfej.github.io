@@ -6,7 +6,7 @@ categories: media
 ---
 
 
-<img src="https://i.ibb.co/54ywvHJ/Drink-Tracking-app-2.jpg" alt="Drink-Tracking-app-2" border="5" height=800>
+<img src="https://i.ibb.co/54ywvHJ/Drink-Tracking-app-2.jpg" alt="Drink-Tracking-app-2" border="5" width=800>
 
 
 ## DrinkSpot
@@ -20,7 +20,7 @@ Keeping track of your hydration level never been easier.
 
 <br />
 
-<img src="https://i.ibb.co/VVmh4YG/Es-Pxjjj-XAAA5-Fi-X.jpg" alt="Es-Pxjjj-XAAA5-Fi-X" border="5" height=800>
+<img src="https://i.ibb.co/VVmh4YG/Es-Pxjjj-XAAA5-Fi-X.jpg" alt="Es-Pxjjj-XAAA5-Fi-X" border="5" width=800>
 
 <br />
 
