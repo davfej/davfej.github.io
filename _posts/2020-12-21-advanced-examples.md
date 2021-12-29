@@ -44,15 +44,15 @@ Beautiful and clean calendar allowing you to see the days on which you met your 
 
 ## HELPS YOU TO STAY HEALTHY
 
-• Consumption Informations - see when you reached the recommended daily caffeine or sugar intake.
-• Personal Reminders - set custom water reminder for yourself when you need to drink more.
-• Variety of Beverages - track all your beverages in one place.
-• Sync your Data with Apple Health - share your health informations with Apple Health so it can define calorie consumption goals and make dietary recommendations.
+* Consumption Informations - see when you reached the recommended daily caffeine or sugar intake.
+* Personal Reminders - set custom water reminder for yourself when you need to drink more.
+* Variety of Beverages - track all your beverages in one place.
+* Sync your Data with Apple Health - share your health informations with Apple Health so it can define calorie consumption goals and make dietary recommendations.
 
 
-## EVEN MORE THINGS
+### EVEN MORE THINGS
 
-• Clean and easy to use app
-• iOS Widgets
-• Beautiful and interactive charts and diagrams
-• User-friendly layout includes everything you need to keep track of your drinks and nothing else you don’t need
+* Clean and easy to use app
+* iOS Widgets
+* Beautiful and interactive charts and diagrams
+* User-friendly layout includes everything you need to keep track of your drinks and nothing else you don’t need
