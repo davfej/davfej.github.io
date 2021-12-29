@@ -55,10 +55,10 @@ Beautiful and clean calendar allowing you to see the days on which you met your 
 * Sync your Data with Apple Health - share your health informations with Apple Health so it can define calorie consumption goals and make dietary recommendations.
 
 <br />
-<img src="https://i.ibb.co/wJMkScW/badge-standard-2x.png" alt="badge-standard-2x" border="0">
+<img src="https://i.ibb.co/wJMkScW/badge-standard-2x.png" alt="badge-standard-2x" border="0" class="center" width=300>
 <br />
 
-> Share your health informations with Apple Health so it can define calorie consumption goals and make dietary recommendations.
+> Sync your Data with Apple Health
 
 ## EVEN MORE THINGS
 
