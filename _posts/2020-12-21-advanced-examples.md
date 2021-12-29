@@ -52,10 +52,11 @@ Beautiful and clean calendar allowing you to see the days on which you met your 
 * Consumption Informations - see when you reached the recommended daily caffeine or sugar intake.
 * Personal Reminders - set custom water reminder for yourself when you need to drink more.
 * Variety of Beverages - track all your beverages in one place.
-* Sync your Data with Apple Health - share your health informations with Apple Health so it can define calorie consumption goals and make dietary recommendations.
 
 <br />
+
 <img src="https://i.ibb.co/wJMkScW/badge-standard-2x.png" alt="badge-standard-2x" border="0" class="center" width=300>
+
 <br />
 
 > Sync your Data with Apple Health
