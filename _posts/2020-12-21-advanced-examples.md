@@ -6,7 +6,7 @@ categories: media
 ---
 
 
-<img src="https://i.ibb.co/54ywvHJ/Drink-Tracking-app-2.jpg" alt="Drink-Tracking-app-2" border="0" width=800>
+<img src="https://i.ibb.co/54ywvHJ/Drink-Tracking-app-2.jpg" alt="Drink-Tracking-app-2" border="10" width=800>
 
 
 ## DrinkSpot
@@ -16,8 +16,14 @@ A water tracking app with powerful features including water and multiple beverag
 
 Keeping track of your hydration level never been easier. Just tap one your favorite drink to add it to your daily progress.
 
+<br />
+
+<img src="https://i.ibb.co/VVmh4YG/Es-Pxjjj-XAAA5-Fi-X.jpg" alt="Es-Pxjjj-XAAA5-Fi-X" border="0" width=500>
+
+<br />
 
 ## Simplicity
 
-• *Simple Water Tracking*
+*Simple Water Tracking*
+
 Add drinks to your progress with just a simple tap.
