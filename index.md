@@ -12,19 +12,9 @@ Since beginning my journey as an iOS Developer, I’ve published a indie app on 
 
 In 2021, I've landed my first job as an iOS Developer, working at [CodeYard](https://codeyard.eu)
 
+---
 
-
-<div class="skill-bar">
-    {% for i in (1..5) %}
-        {% if i <= include.level %}
-            {% include svg-icon.html icon="dot" size="sm" %}
-        {% else %}
-            {% include svg-icon.html icon="empty-dot" size="sm" %}
-        {% endif %}
-    {% endfor %}
-</div>
-
-    <p>HTML</p>
+<p>HTML</p>
 <div class="container">
   <div class="skills html">90%</div>
 </div>
