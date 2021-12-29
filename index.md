@@ -7,4 +7,4 @@ title: ""
 <br />
 
 ## Hi
-I’m a junior iOS Developer located in Hungary. I have a passion for creating apps with beatutiful animations and intuitive, dynamic user experiences.
+I’m a junior iOS Developer located in Hungary. I have a passion for creating apps with beautiful UI, animations and intuitive, dynamic user experiences.
