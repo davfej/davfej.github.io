@@ -12,7 +12,6 @@ I started learning iOS development about 2 years ago because I am fascinated by 
 After many months of practicing and learning how to code in my spare time, I finally landed my first job as an iOS developer in July, 2021.
   
 When I'm not coding, you can find me reading books, watching moovies in the cinema or working out at the gym.  
-  
 Visit my [LinkedIn](https://www.linkedin.com/in/dávid-fejes-b02316212/) profile for more details.
 
 
