@@ -13,8 +13,7 @@ Since beginning my journey as an iOS Developer, I’ve published a indie app on 
 In 2021, I've landed my first job as an iOS Developer, working at [CodeYard](https://codeyard.eu)
 
 ---
-```html
-<!DOCTYPE html>
+
 <p>HTML</p>
  <div class="container">
    <div class="skills html">90%</div>
@@ -27,4 +26,3 @@ In 2021, I've landed my first job as an iOS Developer, working at [CodeYard](htt
  <div class="container">
    <div class="skills js">65%</div>
  </div>
-```
