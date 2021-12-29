@@ -67,10 +67,12 @@ Beautiful and clean calendar allowing you to see the days on which you met your 
 
 ---
 
+
 #### Featured on App Hackers
 
 DrinkSpot got featured on *App Hackers*, a knowledge-sharing community for app developers, where creators can share their journeys and insights.
 Check out the full interview on [AppHackers.com](http://apphackers.com/interview/drinkspot-1545770917)
+
 
 #### Featured on Product Hunt
 
