@@ -11,7 +11,7 @@ categories: media
 
 ## DrinkSpot
 
-DrinkSpot: Daily Drink Tracker is a water tracking app with a good balance of *style*, *simplicity* and *functionality*.
+[DrinkSpot: Daily Drink Tracker](https://apps.apple.com/us/app/drinkspot-daily-drink-tracker/id1545770917) is a water tracking app with a good balance of *style*, *simplicity* and *functionality*.
 A water tracking app with powerful features including water and multiple beverages tracking capability, reminders, nutrition monitoring, progress calendar and much, much more.
 
 Keeping track of your hydration level never been easier.
