@@ -53,12 +53,6 @@ Beautiful and clean calendar allowing you to see the days on which you met your 
 * Personal Reminders - set custom water reminder for yourself when you need to drink more.
 * Variety of Beverages - track all your beverages in one place.
 
-<br />
-
-<img src="https://i.ibb.co/wJMkScW/badge-standard-2x.png" alt="badge-standard-2x" border="0" class="center" width=300>
-
-<br />
-
 > Sync your Data with Apple Health
 
 ## EVEN MORE THINGS
