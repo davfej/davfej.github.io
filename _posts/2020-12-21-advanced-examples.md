@@ -30,7 +30,7 @@ Keeping track of your hydration level never been easier.
 <br />
 Add drinks to your progress with just a simple tap.
 
-*Your Daily Plan*
+*Hydration Plan*
 <br />
 Choose a daily water intake goal which fits your lifestyle the best.
 
@@ -55,7 +55,7 @@ Beautiful and clean calendar allowing you to see the days on which you met your 
 * Sync your Data with Apple Health - share your health informations with Apple Health so it can define calorie consumption goals and make dietary recommendations.
 
 
-### EVEN MORE THINGS
+## EVEN MORE THINGS
 
 * Clean and easy to use app
 * iOS Widgets
