@@ -1,5 +1,5 @@
 ---
-title:  "Advanced examples"
+title:  "DrinkSpot: Daily Drink Tracker"
 mathjax: true
 layout: post
 categories: media
