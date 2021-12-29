@@ -8,6 +8,8 @@ title: ""
 <div style="text-align: center">I'm an iOS developer based in Szeged, Hungary focused on Swift development.
 I am a self-taught developer. After many years of practicing and learning how to code in my spare time, I finally landed my first job as a developer.
   
+When I'm not coding, you can find me reading books, watching moovies in the cinema or working out at the gym.  
+  
 </div>
 
 <div style="text-align: center">Visit my [LinkedIn](https://www.linkedin.com/in/dávid-fejes-b02316212/) profile for more details.</div>
