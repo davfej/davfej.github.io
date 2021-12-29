@@ -54,8 +54,9 @@ Beautiful and clean calendar allowing you to see the days on which you met your 
 * Variety of Beverages - track all your beverages in one place.
 
 > Sync your Data with Apple Health
+
 <br />
-<img src="https://i.ibb.co/wJMkScW/badge-standard-2x.png" alt="badge-standard-2x" border="0" height=200>
+<img src="https://i.ibb.co/wJMkScW/badge-standard-2x.png" alt="badge-standard-2x" border="0" width=200 class="center">
 <br />
 
 ## EVEN MORE THINGS
