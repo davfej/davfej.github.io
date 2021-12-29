@@ -27,18 +27,23 @@ Keeping track of your hydration level never been easier.
 ## KEY FEATURES
 
 *Simple Water Tracking*
+<br />
 Add drinks to your progress with just a simple tap.
 
 *Your Daily Plan*
+<br />
 Choose a daily water intake goal which fits your lifestyle the best.
 
 *Reminders*
+<br />
 Receive reminders so you don't forget to drink enough water.
 
 *Nutrition Monitoring*
+<br />
 Keep track of your nutrient values, including calories, carbs, proteins and more.
 
 *Progress Calendar*
+<br />
 Beautiful and clean calendar allowing you to see the days on which you met your daily goal.
 
 
