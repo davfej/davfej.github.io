@@ -24,7 +24,7 @@ external:                  # shows a footer with social links - for available ic
   - {title: Twitter, icon: twitter, url: "https://twitter.com/davfej"}
   - {title: LinkedIn, icon: linkedin-in, url: "https://www.linkedin.com/in/dávid-fejes-b02316212/"}
   - {title: GitHub, icon: github-alt, url: "https://github.com/davfej"}
-  - {title: LeetCode, icon: code-branch, url: "https://leetcode.com/davfej/"}
+  - {title: LeetCode, icon: code-fork, url: "https://leetcode.com/davfej/"}
   
 
 
