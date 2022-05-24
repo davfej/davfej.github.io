@@ -3,7 +3,7 @@ layout: page
 title: ""
 ---
 
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/dLCNxN1/Group.png" alt="Group" border="0"></a>
+<div style="text-align: center"><a href="https://imgbb.com/"><img src="https://i.ibb.co/dLCNxN1/Group.png" alt="Group" border="0"></a></div>
 <br />
 
 ## Hello,
